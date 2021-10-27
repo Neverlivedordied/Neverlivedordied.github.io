@@ -7,7 +7,7 @@ You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlvie
 
 
 
-```markdown
+```
 Syntax highlighted code block
 
 _https://twitter.com/neverlivedied_
