@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to THE INTERNET
 
 You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlviedordied.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
