@@ -1,9 +1,7 @@
 ## HI welcome to my site 
-Here you can find some links to my socials
 
-## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
 
-Syntax highlighted code block
+### This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
 
 
 ## LINKS TO SOCIALS
