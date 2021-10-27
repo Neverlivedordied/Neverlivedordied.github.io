@@ -19,7 +19,7 @@
 discord in development
 
 
-[orginal website](https://eurofan740.wixsite.com/website)
+[orginal website](https://www.eurofan740.wixsite.com/website)
 
 ### DISCORD STATUS
 discord server is under development 10/27/2021
