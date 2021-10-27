@@ -12,8 +12,14 @@ You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlvie
 
 
 [my twitter](https://twitter.com/neverlivedied)
+
+
 [my twitch](https://www.twitch.tv/theminebrothers3)
+
+
 discord in development
+
+
 [orginal website](eurofan740.wixsite.com)
 
 ### DISCORD STATUS
