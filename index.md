@@ -12,15 +12,14 @@ You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlvie
 
 
 [my twitter](https://twitter.com/neverlivedied)
-[my twitch] https://www.twitch.tv/theminebrothers3
+[my twitch](https://www.twitch.tv/theminebrothers3)
+discord in development
+[orginal website](eurofan740.wixsite.com)
 
+### DISCORD STATUS
+discord server is under development 10/27/2021
+should be up by 11/15/2021
 
-
-For more details see and orgianl site visit eurofan740.wixsite.com
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neverlivedordied/Neverlviedordied.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 If you want to reach out use the email down below
