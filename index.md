@@ -1,7 +1,9 @@
 ## HI welcome to my site 
 
 
-### This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
+## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
+
+
 
 
 ## LINKS TO SOCIALS
@@ -17,7 +19,7 @@
 discord in development
 
 
-[orginal website](eurofan740.wixsite.com)
+[orginal website](https://eurofan740.wixsite.com/website)
 
 ### DISCORD STATUS
 discord server is under development 10/27/2021
