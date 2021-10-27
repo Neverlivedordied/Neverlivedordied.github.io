@@ -8,15 +8,11 @@ You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlvie
 
 
 ## LINKS TO SOCIALS
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-```markdown
-_https://twitter.com/neverlivedied_
-_https://www.twitch.tv/theminebrothers3_
+
+
+
+[my twitter](https://twitter.com/neverlivedied)
+[my twitch] https://www.twitch.tv/theminebrothers3
 
 
 
