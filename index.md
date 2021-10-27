@@ -1,15 +1,7 @@
 ## HI welcome to my site 
-
-You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlviedordied.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find some links to my socials
 
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 
 Syntax highlighted code block
 
