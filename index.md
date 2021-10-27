@@ -24,5 +24,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 If you want to reach out use the email down below
 
-```markdown
+
 theinternetisatube@gmail.com
