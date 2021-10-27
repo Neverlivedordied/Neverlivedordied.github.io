@@ -7,8 +7,8 @@ You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlvie
 
 
 
-##LINKS TO SOCIALS
-
+## LINKS TO SOCIALS
+``` markdown
 _https://twitter.com/neverlivedied_
 _https://www.twitch.tv/theminebrothers3_
 
