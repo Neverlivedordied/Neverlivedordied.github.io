@@ -2,11 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlviedordied.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
