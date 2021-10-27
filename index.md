@@ -5,6 +5,13 @@ You can use the [editor on GitHub](https://github.com/Neverlivedordied/Neverlvie
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
 
 
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+
+Syntax highlighted code block
 
 
 ## LINKS TO SOCIALS
