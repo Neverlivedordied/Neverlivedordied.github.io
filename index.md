@@ -21,6 +21,20 @@ discord in development
 
 [orginal website](https://www.eurofan740.wixsite.com/website)
 
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2 border-bottom">
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
+    <path fill-rule="evenodd" d="..."></path>
+</svg>
+    <span aria-label="Video description dotnet-evergreen.mp4" class="m-1">dotnet-evergreen.mp4</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+
+### TEST VIDEO
+<video src="https://www.youtube.com/watch?v=_pz0oXEuMo8
+</video>
+            
 ### DISCORD STATUS
 discord server is under development 10/27/2021
 should be up by 11/15/2021
