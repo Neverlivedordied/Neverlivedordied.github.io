@@ -23,8 +23,8 @@ discord in development
 
 
 ### TEST VIDEO
-<video src="https://www.youtube.com/watch?v=_pz0oXEuMo8
-</video>
+[Link](https://www.youtube.com/watch?v=_pz0oXEuMo8)
+
             
 ### DISCORD STATUS
 discord server is under development 10/27/2021
