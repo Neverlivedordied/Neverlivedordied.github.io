@@ -23,7 +23,7 @@ discord in development
 
 
 ### TEST VIDEO
-[Link](https://www.youtube.com/watch?v=_pz0oXEuMo8)
+[VIDEO](https://www.youtube.com/watch?v=_pz0oXEuMo8)
 
             
 ### DISCORD STATUS
