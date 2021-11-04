@@ -24,7 +24,9 @@ discord in development
 
 ### TEST VIDEO
 [VIDEO](https://www.youtube.com/watch?v=_pz0oXEuMo8)
-
+title: gta
+  description: 
+  video: https://www.youtube.com/watch?v=_pz0oXEuMo8
             
 ### DISCORD STATUS
 discord server is under development 10/27/2021
