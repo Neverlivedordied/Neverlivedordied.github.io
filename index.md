@@ -28,7 +28,7 @@ discord in development
             
 ### DISCORD STATUS
 discord server is under development 10/27/2021
-should be up by 11/15/2021
+should be up by 11/16/2021
 
 
 ### Support or Contact
