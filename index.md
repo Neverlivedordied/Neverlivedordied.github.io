@@ -1,5 +1,5 @@
 ## HI welcome to my site 
-
+                                                                                                              <a href="/contact.html">Contact</a>
 
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
 
@@ -33,7 +33,7 @@ discord in development
 discord server is under development 10/27/2021
 should be up by 11/17/2021
 
-<a href="/contact.html">Contact</a>
+
 
 
 
