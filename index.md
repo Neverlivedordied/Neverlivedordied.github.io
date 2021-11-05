@@ -33,7 +33,7 @@ discord in development
 discord server is under development 10/27/2021
 should be up by 11/17/2021
 
-<a href="/contact.html"></a>
+<a href="/contact.html">Contact</a>
 
 
 
