@@ -1,6 +1,6 @@
 
-<p align="right"><a href="/contact.html">Contact</a> 
-
+<p align="right"> <a href="/contact.html">Contact</a> 
+<p>
 ## HI welcome to my site 11/5/21
 
  
