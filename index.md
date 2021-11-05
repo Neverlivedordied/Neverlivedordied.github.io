@@ -1,7 +1,5 @@
-<p align= "right"> <a href="/contact.html">Contact</a>
-
 ## HI welcome to my site 
-
+<p align= "right"> <a href="/contact.html">Contact</a>
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
 
 
