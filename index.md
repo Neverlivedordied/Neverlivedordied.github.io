@@ -1,8 +1,7 @@
 ## HI welcome to my site 
-                                                                                                              <a href="/contact.html">Contact</a>
 
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc 
-
+    <a href="/contact.html">Contact</a>
 
 
 
