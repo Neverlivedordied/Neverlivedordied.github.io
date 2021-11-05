@@ -1,6 +1,3 @@
-
-<a href="/contact.html">Contact</a> 
-
 ## HI welcome to my site 11/5/21
 
  
