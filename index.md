@@ -3,7 +3,7 @@
  </p>
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
 
-
+If website is updated and page dosent update please type in https://neverlivedordied.github.io/index.html
 
 
 ## LINKS TO SOCIALS
