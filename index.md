@@ -33,9 +33,8 @@ discord in development
 discord server is under development 10/27/2021
 should be up by 11/17/2021
 
+<a href="/contact.html"></a>
 
-### Support or Contact
-If you want to reach out use the email down below
 
 
 theinternetisatube@gmail.com
