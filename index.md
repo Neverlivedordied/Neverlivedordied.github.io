@@ -1,4 +1,4 @@
-## HI welcome to my site 11/5/21 2:09
+## HI welcome to my site 11/5/21 2:14
 <p align= "right"> <a href="/contact.html">Contact</a> 
  
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
