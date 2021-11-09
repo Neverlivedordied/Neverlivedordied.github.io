@@ -1,6 +1,7 @@
 ## HI welcome to my site 11/5/21 2:32
 <p align= "right"><a href="/contact.html">Contact</a> 
  </p>
+ [contact](https://github.com/Neverlivedordied/contact.git)
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
 
 If website is updated and page dosent update please type in https://neverlivedordied.github.io/index.html
