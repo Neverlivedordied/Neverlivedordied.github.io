@@ -1,5 +1,5 @@
 ## HI welcome to my site 11/9/21 12:47
-<p align= "right"><a href="/ https://neverlivedordied.github.io/contact.github.io/"">Contact</a>
+<p align= "right"><a href="/ https://neverlivedordied.github.io/contact.github.io/">Contact</a>
 </p>
  
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
