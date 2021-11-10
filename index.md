@@ -32,13 +32,8 @@ discord in development
 
 
 ### DISCORD STATUS
-discord server is under development 10/27/2021
-should be up by 11/17/2021
+discord server is under development 11/10/2021
+should be up by 11/20/2021
 
-
-
-
-contact
-theinternetisatube@gmail.com
 
 
