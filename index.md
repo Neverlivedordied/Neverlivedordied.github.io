@@ -1,5 +1,5 @@
 ## HI welcome to my site 11/9/21 12:54
-[contact](https://neverlivedordied.github.io/contact.github.io)   [resume](https://neverlivedordied.github.io/resume.github.io/)
+[contact](https://neverlivedordied.github.io/contact.github.io/index.html)   [resume](https://neverlivedordied.github.io/resume.github.io/index.html)
 
  
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
