@@ -16,6 +16,18 @@ Please use this link when sharing as the link up top might not always update  ht
 
 [my twitch](https://www.twitch.tv/theminebrothers3)
 
+## TWITTER FEED
+<a class="twitter-timeline"
+   href="https://twitter.com/neverlivedied"
+   data-width="300"
+   data-height="300"
+   data-chrome="nofooter noscrollbar noborders transparent"
+   data-tweet-limit="3">Tweets by @neverlivedordied</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
 
 discord in development
 
