@@ -25,8 +25,10 @@ might not be possible with github
 
 
 discord in development
-canceling the discord server
-I AM NO LONGER GOING TO USE DISCORD FOR SEVER AS IT IS THROWING A TRANTRUM TELLING ME TO ENTER MY PHONE NUMBER ( i have and now it says resource is being rate limited after saying it didnt accept) SO NOW USING GILDED
+### canceling the discord server
+
+
+### I AM NO LONGER GOING TO USE DISCORD FOR SEVER AS IT IS THROWING A TRANTRUM TELLING ME TO ENTER MY PHONE NUMBER ( i have and now it says resource is being rate limited after saying it didnt accept) SO NOW USING GILDED
 GILDED VS DISCORD
 GILDED: no need for a "nitro" to use animtaed emojis and bigger upload size with out a sub, a sub to a server and you make make the price aka you make the tiers whats in it and how much it costs 
 Discord need a sub for animated emojis, bigger file size, and fixed price for sub 
