@@ -28,12 +28,12 @@ discord in development
 ### canceling the discord server
 
 
-### I AM NO LONGER GOING TO USE DISCORD FOR SEVER AS IT IS THROWING A TRANTRUM TELLING ME TO ENTER MY PHONE NUMBER ( i have and now it says resource is being rate limited after saying it didnt accept) SO NOW USING GILDED
+### I am no longer using discord for server I am using gilded so here are some pro and cons
 GILDED VS DISCORD
 GILDED: no need for a "nitro" to use animtaed emojis and bigger upload size with out a sub, a sub to a server and you make make the price aka you make the tiers whats in it and how much it costs 
 Discord need a sub for animated emojis, bigger file size, and fixed price for sub 
 
-I orginally intneded on havign a discord server its just that this verification has thrown me into the deep end and now im no longer going to use discord for this server
+I orginally intneded on having a discord server its just that this verification has thrown me into the deep end and now im no longer going to use discord for this server
 
 [orginal website](https://www.eurofan740.wixsite.com/website)
 
