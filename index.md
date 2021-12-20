@@ -46,9 +46,9 @@ I orginally intneded on having a discord server its just that this verification 
 
 
 
-### DISCORD STATUS
-discord server is under development 11/10/2021
-should be up by 11/20/2021
+### Guilded server STATUS
+discord server is under development 12/20/2021
+should be up by 12/28/2021
 
 
 
