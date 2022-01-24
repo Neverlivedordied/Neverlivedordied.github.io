@@ -1,5 +1,5 @@
 ## HI welcome to my site 12/20/2021 12:52PM
-[contact](https://neverlivedordied.github.io/contact.github.io/index.html)   [resume](https://neverlivedordied.github.io/resume/index.html)   [aboutme](https://neverlivedordied.github.io/aboutme2/index.html)   [chatroom](https://neverlivedordied.github.io/chatroom/index.html)
+[contact](https://neverlivedordied.github.io/contact.github.io/index.html)   [resume](https://neverlivedordied.github.io/resume/index.html)   [aboutme](https://neverlivedordied.github.io/About-Me/index.html)   [chatroom](https://neverlivedordied.github.io/chatroom/index.html)
 
  
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
