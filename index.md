@@ -33,7 +33,7 @@ GILDED VS DISCORD
 GILDED: no need for a "nitro" to use animtaed emojis and bigger upload size with out a sub, a sub to a server and you make make the price aka you make the tiers whats in it and how much it costs 
 Discord need a sub for animated emojis, bigger file size, and fixed price for sub 
 
-I orginally intneded on having a discord server its just that this verification has thrown me into the deep end and now im no longer going to use discord for this server
+I orginally intneded on having a discord server though in order to be unique guilded is better also phone verification kinda thrown me to it though thats done now so ye 
 
 [orginal website](https://www.eurofan740.wixsite.com/website)
 
