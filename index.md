@@ -52,11 +52,9 @@ should be up by 12/28/2021
 
 
 
-html { 
   background: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
 
