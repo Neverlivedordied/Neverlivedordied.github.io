@@ -51,12 +51,7 @@ discord server is under development 12/20/2021
 should be up by 12/28/2021
 
 
-.fstPage  {
-    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
-    /*background-color: lightgray;*/
-    height: 700px;
-    width:100%;
-    background-size:cover;
-}
 
-<div class="fstPage"></div>
+<a id='Y_oF53S9R2FS7di2SA4ZgA' class='gie-single' href='http://www.gettyimages.com/detail/1132930101' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'Y_oF53S9R2FS7di2SA4ZgA',sig:'-Al4ZHI9E0xTNHWtfN9dfbXyL0U3r9VIBQiZ76w3cuM=',w:'536px',h:'322px',items:'1132930101',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
+
+
