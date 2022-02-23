@@ -51,4 +51,11 @@ discord server is under development 12/20/2021
 should be up by 12/28/2021
 
 
+.fstPage  {
+    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
 
