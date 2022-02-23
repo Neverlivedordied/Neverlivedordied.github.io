@@ -52,6 +52,11 @@ should be up by 12/28/2021
 
 
 
-<a id='Y_oF53S9R2FS7di2SA4ZgA' class='gie-single' href='http://www.gettyimages.com/detail/1132930101' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'Y_oF53S9R2FS7di2SA4ZgA',sig:'-Al4ZHI9E0xTNHWtfN9dfbXyL0U3r9VIBQiZ76w3cuM=',w:'536px',h:'322px',items:'1132930101',caption: true ,tld:'com',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
-
+html { 
+  background: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
