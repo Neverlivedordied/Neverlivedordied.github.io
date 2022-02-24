@@ -51,5 +51,19 @@ discord server is under development 12/20/2021
 should be up by 12/28/2021
 
 
+</html>
+  background: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
+</html>
 
+html { 
+  background: url(https://waste4change.com/blog/wp-content/uploads/niko-photos-tGTVxeOr_Rs-unsplash-1024x683.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
