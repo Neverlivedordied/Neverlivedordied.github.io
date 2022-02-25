@@ -50,25 +50,13 @@ I orginally intneded on having a discord server though in order to be unique gui
 discord server is under development 12/20/2021
 should be up by 12/28/2021
 
-<!DOCTYPE html>
-<html lang="en">
- <head>
-  <meta charset="UTF-8">
-  <link rel="https://github.com/Neverlivedordied/css/blob/main/style.css">
-  <style>
-         img{
-             width:100%;
-    }
-    h2 {
-        Color:white;
-        }
-    </style>
 
+  
 </head>
 <body>
   <div>
-   <h1> test</h1>
-   <h2>demo</h2>
+   <h1> Working on a back ground image </h1>
+   <h2>In the mean time enjoy this tree that I found on the internet</h2>
    <img src="https://neverlivedordied.github.io/images/4.jpg" alt="demo">
   <div>
 
