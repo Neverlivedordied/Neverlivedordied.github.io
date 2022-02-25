@@ -54,7 +54,7 @@ should be up by 12/28/2021
 <html lang="en">
  <head>
   <meta charset="UTF-8">
-  <link rel="https://github.com/Neverlivedordied/css/blob/main/style.css"
+  <link rel="https://github.com/Neverlivedordied/css/blob/main/style.css">
   <style>
          img{
              width:100%;
