@@ -52,7 +52,7 @@ should be up by 12/28/2021
 
 
   
-</head>
+
 <body>
   <div>
    <h1> Working on a back ground image </h1>
