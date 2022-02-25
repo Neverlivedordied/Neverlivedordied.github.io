@@ -50,6 +50,20 @@ I orginally intneded on having a discord server though in order to be unique gui
 discord server is under development 12/20/2021
 should be up by 12/28/2021
 
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <link rel="https://github.com/Neverlivedordied/css/blob/main/style.css"
+  <style>
+         img{
+             width:100%;
+    }
+    h2 {
+        Color:white;
+        }
+    </style>
+
 </head>
 <body>
   <div>
