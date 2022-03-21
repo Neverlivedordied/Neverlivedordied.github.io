@@ -65,15 +65,4 @@ should be up by 12/28/2021
    
    
     
-  TEST
  
-      CLICK PICTURE 
-   </head>
-   <body>
-      The following image works as a link:<br>
-      <a href="https://neverlivedordied.github.io/chatroom/index.html">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
-      </a>
-   </body>
-</html>
