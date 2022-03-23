@@ -32,7 +32,7 @@
 <a href="https//twitter.com/neverlivedie">My Twitter</a>
 
 
-<a href="https://www.twitch.tv/theminebrothers3"My twitch
+    <a href="https://www.twitch.tv/theminebrothers3"My twitch </a>
 
 ## TWITTER FEED
 Working on it
