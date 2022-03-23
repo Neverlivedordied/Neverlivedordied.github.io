@@ -64,23 +64,6 @@ should be up by 12/28/2021
    
    
    
- <head>
-<style>
-body {
-  background-image: url('https://neverlivedordied.github.io/images/1.jp');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
-}
-</style>
-</head>
-<body>
-
-<h2>Background Stretch</h2>
-  </p>
-
-</body>
-</html> 
     
 
 
