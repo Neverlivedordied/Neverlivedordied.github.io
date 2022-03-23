@@ -62,7 +62,8 @@ should be up by 12/28/2021
 
    
    
-  <p style="background-image: url('https://neverlivedordied.github.io/images/4.jpg');">
+  <p style="background-image: url('https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/1.jpg');">
    
     
- 
+
+
