@@ -1,6 +1,18 @@
-## HI welcome to my site 
-[contact](https://neverlivedordied.github.io/contact.github.io/index.html)   [resume](https://neverlivedordied.github.io/resume/index.html)   [aboutme](https://neverlivedordied.github.io/About-Me/index.html)   [chatroom](https://neverlivedordied.github.io/chatroom/index.html) [some helpful stuff on windows](https://neverlivedordied.github.io/HELPFULL-STUFF/)
+<!doctype html>
 
+<html>
+    ## HI welcome to my site 
+<!DOCTYPE html>
+<html>
+<body>
+
+<a href="https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md">Visit W3Schools.com!</a>
+
+</body>
+</html>
+
+</body>
+</html>
  
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
 
@@ -10,11 +22,13 @@ Please use this link when sharing as the link up top might not always update  ht
 ## LINKS TO SOCIALS
 
 
+<!DOCTYPE html>
+<html>
+<body>
+<a href="https//twitter.com/neverlivedie">My Twitter</a>
 
-[my twitter](https://twitter.com/neverlivedied)
 
-
-[my twitch](https://www.twitch.tv/theminebrothers3)
+<a href="https://www.twitch.tv/theminebrothers3"My twitch
 
 ## TWITTER FEED
 Working on it
@@ -67,3 +81,6 @@ should be up by 12/28/2021
     
 
 
+
+
+</html>
