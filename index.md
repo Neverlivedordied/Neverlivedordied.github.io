@@ -16,10 +16,9 @@
 </html>
 
 </body>
-</html>
- 
+</html>  
 
-<div class="down">## LINKS TO SOCIALS </div>
+<pre>
  ## LINKS TO SOCIALS
 
 
@@ -32,9 +31,9 @@
 
     
     
-   </P 
+   <pre>
     
-    
+    <pre>
          ## TWITTER FEED
 Working on it
 might not be possible with github as github pages are like static
@@ -43,8 +42,8 @@ might not be possible with github as github pages are like static
 
 
    
-
-
+<pre>
+<pre>
 ### LATEST VIDEO 11/15/2021
 ##### manually putting in video so if not correct you know why
 
@@ -55,7 +54,7 @@ might not be possible with github as github pages are like static
 
 
 
-
+<pre>
     
     
 
