@@ -1,4 +1,4 @@
-<!doctype html>
+
 
 <html>
     ## HI welcome to my site 
@@ -25,7 +25,7 @@
 ## LINKS TO SOCIALS
 
 
-<!DOCTYPE html>
+
 <html>
 <body>
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
@@ -37,7 +37,7 @@
     
     
     
-    ## TWITTER FEED
+         ## TWITTER FEED
 Working on it
 might not be possible with github as github pages are like static
 
@@ -62,8 +62,7 @@ might not be possible with github as github pages are like static
     
 
 ### Guilded server STATUS
-discord server is under development 12/20/2021
-should be up by 12/28/2021
+discord server is under development 
 
 
   
