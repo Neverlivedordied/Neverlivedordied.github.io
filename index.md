@@ -21,8 +21,6 @@
 <br>
  ## LINKS TO SOCIALS <br>
 <br>
-<br>
-<br>
 <html>
 <body>
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
@@ -30,21 +28,12 @@
     <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
 <br>
     <br>
-    <br>
-   <br>
-    <br>
-    <br>
          ## TWITTER FEED<br>
-    <br>
-    <br>
     <br>
     <br>
 <br>
 Working on it
 might not be possible with github as github pages are like static<br>
-<br>
-<br>
-<br>
 <br>
    <br>
 <br>
@@ -56,19 +45,12 @@ might not be possible with github as github pages are like static<br>
 <p align="(center)">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_pz0oXEuMo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-
 <br>
-<br>
-    <br>
-    <br>
 <br>
 ### discord server STATUS<br>
 discord server is under development <br>
 <br>
 <br>
-  <br>
-
 <body>
   <div>
    <h1> Working on a back ground image </h1>
