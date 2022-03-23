@@ -2,7 +2,7 @@
 
 <html>
     ## HI welcome to my site 
-<!DOCTYPE html>
+<p>
 <html>
 <body>
 
@@ -19,7 +19,7 @@
 </html>  
 
 
- ## LINKS TO SOCIALS
+ ## LINKS TO SOCIALS <br>
 
 
 
@@ -28,15 +28,15 @@
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
     <a href="https://www.twitch.tv/theminebrothers3">My Twitch</a>
     <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
-
+<br>
     
     
    
     
     
-         ## TWITTER FEED
+         ## TWITTER FEED<br>
 Working on it
-might not be possible with github as github pages are like static
+might not be possible with github as github pages are like static<br>
 
 
 
@@ -45,7 +45,7 @@ might not be possible with github as github pages are like static
 
 
 ### LATEST VIDEO 11/15/2021
-##### manually putting in video so if not correct you know why
+##### manually putting in video so if not correct you know why<br>
 
 
 <p align="(center)">
@@ -58,8 +58,8 @@ might not be possible with github as github pages are like static
     
     
 
-### Guilded server STATUS
-discord server is under development 
+### Guilded server STATUS<br>
+discord server is under development <br>
 
 
   
@@ -70,7 +70,7 @@ discord server is under development
    <h2>In the mean time enjoy this tree that I found on the internet</h2>
    <img src="https://neverlivedordied.github.io/images/4.jpg" alt="demo">
   <div>
-
+<br>
    
    
    
@@ -81,3 +81,4 @@ discord server is under development
 
 
 </html>
+<p>
