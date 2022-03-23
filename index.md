@@ -53,9 +53,7 @@ discord server is under development <br>
 <br>
 <body>
   <div>
-   <h1> Working on a back ground image </h1>
-   <h2>In the mean time enjoy this tree that I found on the internet</h2>
-   <img src="https://neverlivedordied.github.io/images/4.jpg" alt="demo">
+   <p style="background-image: url(https://neverlivedordied.github.io/images/4.jpg);">
   <div>
 <br>
    
