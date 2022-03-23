@@ -18,7 +18,6 @@
 </body>
 </html>
  
-## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
 
 
 
@@ -32,7 +31,13 @@
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
     <a href="https://www.twitch.tv/theminebrothers3">My Twitch</a>
     <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
-## TWITTER FEED
+
+    
+    
+    
+    
+    
+    ## TWITTER FEED
 Working on it
 might not be possible with github as github pages are like static
 
