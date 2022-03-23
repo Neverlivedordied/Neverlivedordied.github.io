@@ -7,7 +7,11 @@
 <body>
 
 <a href="https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md">If you want to refresh to see if there is a change click this!</a>
-
+    <a href="https://neverlivedordied.github.io/contact.github.io/index.html">Conact</a>
+    <a href="https://neverlivedordied.github.io/resume/index.html">Resume</a>
+    <a href="https://neverlivedordied.github.io/About-Me/index.html">About me</a>
+             <a href="https://neverlivedordied.github.io/chatroom/index.html"> chatroom in development</a>
+    <a href="https://neverlivedordied.github.io/HELPFULL-STUFF">Helpfull stuff to do in widnows </a>
 </body>
 </html>
 
@@ -16,7 +20,7 @@
  
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
 
-Please use this link when sharing as the link up top might not always update  https://neverlivedordied.github.io/index.html
+
 
 
 ## LINKS TO SOCIALS
