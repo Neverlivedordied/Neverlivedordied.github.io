@@ -1,5 +1,5 @@
 ## HI welcome to my site 
-[contact](https://neverlivedordied.github.io/contact.github.io/index.html)   [resume](https://neverlivedordied.github.io/resume/index.html)   [aboutme](https://neverlivedordied.github.io/About-Me/index.html)   [chatroom](https://neverlivedordied.github.io/chatroom/index.html) [stuff to do on windows](https://neverlivedordied.github.io/tipsandtricks/index.html)
+[contact](https://neverlivedordied.github.io/contact.github.io/index.html)   [resume](https://neverlivedordied.github.io/resume/index.html)   [aboutme](https://neverlivedordied.github.io/About-Me/index.html)   [chatroom](https://neverlivedordied.github.io/chatroom/index.html) [some helpful stuff on windows](https://neverlivedordied.github.io/HELPFULL-STUFF/)
 
  
 ## This website is where you can view the helpful links i have such as my discord server ( in development), twitter, twitch, etc
