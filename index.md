@@ -30,9 +30,7 @@
 <html>
 <body>
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
-    
-  
-    <a href="https://www.twitch.tv/theminebrothers3">My twitch</a>
+    <a href="https://www.twitch.tv/theminebrothers3">My Twitch</a>
    
 ## TWITTER FEED
 Working on it
