@@ -32,14 +32,13 @@
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
     
   
-    
     <a href="https://www.twitch.tv/theminebrothers3">My twitch</a>
-
      </body>
      </html>
+
 ## TWITTER FEED
 Working on it
-might not be possible with github
+might not be possible with github as github pages are like static
 
 
 
