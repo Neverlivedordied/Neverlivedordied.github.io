@@ -64,12 +64,7 @@ should be up by 12/28/2021
    
    
    
-   <body>
-
-<h2>Background Image</h2>
-
-<p>A background image for a p element:</p>
-  <p style="background-image: url('https://raw.githubusercontent.com/Neverlivedordied/Neverlivedordied.github.io/gh-pages/images/1.jpg');">
+ 
    
     
 
