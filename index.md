@@ -31,12 +31,7 @@
 <body>
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
     
-    </body>
-    </html>
-    
-    <!DOCTYPE html>
-    <html>
-    <body>
+  
     
     <a href="https://www.twitch.tv/theminebrothers3">My twitch</a>
 
