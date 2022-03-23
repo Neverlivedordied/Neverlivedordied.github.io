@@ -6,7 +6,7 @@
 <html>
 <body>
 
-<a href="https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md">Visit W3Schools.com!</a>
+<a href="https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md">If you want to refresh to see if there is a change click this!</a>
 
 </body>
 </html>
