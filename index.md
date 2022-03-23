@@ -29,11 +29,19 @@
 <!DOCTYPE html>
 <html>
 <body>
-<a href="https//twitter.com/neverlivedie">My Twitter</a>
+<a href="https//twitter.com/neverlivedied">My Twitter</a>
     
+    </body>
+    </html>
     
-    <a href="https://www.twitch.tv/theminebrothers3">My twitch </a>
+    <!DOCTYPE html>
+    <html>
+    <body>
+    
+    <a href="https://www.twitch.tv/theminebrothers3">My twitch</a>
 
+     </body>
+     </html>
 ## TWITTER FEED
 Working on it
 might not be possible with github
