@@ -17,52 +17,57 @@
 
 </body>
 </html>  
-
-
+<br>
+<br>
  ## LINKS TO SOCIALS <br>
-
-
-
+<br>
+<br>
+<br>
 <html>
 <body>
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
     <a href="https://www.twitch.tv/theminebrothers3">My Twitch</a>
     <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
 <br>
-    
-    
-   
-    
-    
+    <br>
+    <br>
+   <br>
+    <br>
+    <br>
          ## TWITTER FEED<br>
+    <br>
+    <br>
+    <br>
+    <br>
+<br>
 Working on it
 might not be possible with github as github pages are like static<br>
-
-
-
-
-   
-
-
+<br>
+<br>
+<br>
+<br>
+   <br>
+<br>
+<br>
 ### LATEST VIDEO 11/15/2021
 ##### manually putting in video so if not correct you know why<br>
-
-
+<br>
+<br>
 <p align="(center)">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_pz0oXEuMo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
-
-
-    
-    
-
-### Guilded server STATUS<br>
+<br>
+<br>
+    <br>
+    <br>
+<br>
+### discord server STATUS<br>
 discord server is under development <br>
-
-
-  
+<br>
+<br>
+  <br>
 
 <body>
   <div>
