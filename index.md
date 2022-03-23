@@ -31,7 +31,7 @@
 <body>
 <a href="https//twitter.com/neverlivedied">My Twitter</a>
     <a href="https://www.twitch.tv/theminebrothers3">My Twitch</a>
-   
+    <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
 ## TWITTER FEED
 Working on it
 might not be possible with github as github pages are like static
@@ -39,7 +39,7 @@ might not be possible with github as github pages are like static
 
 
 
-    <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
+   
 
 
 ### LATEST VIDEO 11/15/2021
