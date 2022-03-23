@@ -39,13 +39,7 @@ might not be possible with github as github pages are like static
 
 
 
-
-discord server in development
-
-
-
-
-    <a href="https://www.eurofan740.wixsite.com/website"> orginal website</a>
+    <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
 
 
 ### LATEST VIDEO 11/15/2021
