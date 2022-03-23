@@ -53,10 +53,8 @@ might not be possible with github as github pages are like static
 
 <html>
 <body>
-
 <iframe width="420" height="345" src="https://www.youtube.com/embed/_pz0oXEuMo8">
 </iframe>
-
 </body>
 </html>
 
