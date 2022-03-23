@@ -1,7 +1,7 @@
 
 
 <html>
-    ## HI welcome to my site 
+      <font size="+5">HI welcome to my site</font>
 <p>
 <html>
 <body>
@@ -19,7 +19,7 @@
 </html>  
 <br>
 <br>
- ## LINKS TO SOCIALS <br>
+   <font size="+3">LINKS TO SOCIALS</font> <br>
 <br>
 <html>
 <body>
@@ -28,7 +28,7 @@
     <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
 <br>
     <br>
-         ## TWITTER FEED<br>
+    <font size="+3">TWITTER FEED</font><br>
     <br>
     <br>
 <br>
@@ -38,8 +38,8 @@ might not be possible with github as github pages are like static<br>
    <br>
 <br>
 <br>
-### LATEST VIDEO 11/15/2021
-##### manually putting in video so if not correct you know why<br>
+ <font size="+3">LATEST VIDEO 11/15/2021</font
+ <font size="+1">manually putting in video so if not correct you know why</font><br>
 <br>
 <br>
 <p align="(center)">
