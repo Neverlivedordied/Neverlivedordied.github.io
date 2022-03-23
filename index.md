@@ -49,7 +49,9 @@ might not be possible with github as github pages are like static
 
 ### LATEST VIDEO 11/15/2021
 ##### manually putting in video so if not correct you know why
+<!doctype html>
 
+<html>
 
 <p align="(center)">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_pz0oXEuMo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
