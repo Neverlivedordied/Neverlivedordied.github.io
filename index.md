@@ -19,10 +19,8 @@
 </html>
  
 
-
-
-
-## LINKS TO SOCIALS
+<div class="down">## LINKS TO SOCIALS </div>
+ ## LINKS TO SOCIALS
 
 
 
@@ -34,7 +32,7 @@
 
     
     
-    
+   </P 
     
     
          ## TWITTER FEED
