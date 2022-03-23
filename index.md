@@ -62,7 +62,14 @@ should be up by 12/28/2021
 
    
    
-   
+   <body>
+ <div>
+  <background: url(https://neverlivedordied.github.io/images/4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;>
+<div>
    
     
  
