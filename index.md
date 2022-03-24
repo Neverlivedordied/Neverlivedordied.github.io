@@ -3,8 +3,6 @@
 <body>
 <button type="button" onclick="myFunction()">Night mode</button>
 
-<button type="button" onclick="myFunction()">Set background color</button>
-
 <script>
 function myFunction() {
   document.body.style.backgroundColor = "black";
