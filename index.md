@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<button type="button" onclick="myFunction()">Set background color</button>
+<p id="myP"> Night mode</p>
+
+<button type="button" onclick="myFunction()">Set background color</button>
+
+<script>
+function myFunction() {
+  document.body.style.backgroundColor = "black";
+document.body.style.color = "green"
+} 
+
+ </script>
+</body>
+</html>
 
 
 <html>
