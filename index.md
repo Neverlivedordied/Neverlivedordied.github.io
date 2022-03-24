@@ -13,17 +13,6 @@ document.body.style.color = "Blue"
 </body>
 </html>
 
-<button type="button" onclick="myFunction()">day mode</button>
-
-<script>
-function myFunction() {
-  document.body.style.backgroundColor = "white";
-document.body.style.color = "black"
-} 
-
- </script>
-</body>
-</html>
 
 <html>
       <font size="+5">HI welcome to my site</font>
