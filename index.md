@@ -6,7 +6,7 @@
 <script>
 function myFunction() {
   document.body.style.backgroundColor = "black";
-document.body.style.color = "green"
+document.body.style.color = "Blue"
 } 
 
  </script>
@@ -82,5 +82,5 @@ discord server is under development <br>
 
 
 
-</html>
+
 <p>
