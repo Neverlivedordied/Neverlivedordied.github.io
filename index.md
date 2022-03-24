@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 <button type="button" onclick="myFunction()">Night mode</button>
