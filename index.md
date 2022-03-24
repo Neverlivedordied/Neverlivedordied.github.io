@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<button type="button" onclick="myFunction()">Set background color</button>
-<p id="myP"> Night mode</p>
+<button type="button" onclick="myFunction()">Night mode</button>
 
 <button type="button" onclick="myFunction()">Set background color</button>
 
