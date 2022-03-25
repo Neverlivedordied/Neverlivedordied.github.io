@@ -21,13 +21,12 @@ document.body.style.color = "Blue"
 <body>
 
 <a href="https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md">If you want to refresh to see if there is a change click this!</a>
-    <a href="https://neverlivedordied.github.io/contact.github.io/index.html">Conact</a>
+    <a href="https://neverlivedordied.github.io/contact.github.io/index.html">Contact</a>
     <a href="https://neverlivedordied.github.io/resume/index.html">Resume</a>
     <a href="https://neverlivedordied.github.io/About-Me/index.html">About me</a>
              <a href="https://neverlivedordied.github.io/chatroom/index.html"> chatroom in development</a>
-    <a href="https://neverlivedordied.github.io/HELPFULL-STUFF">Helpfull stuff to do in widnows </a>
-</body>
-</html>
+    <a href="https://neverlivedordied.github.io/HELPFULL-STUFF">Helpfull stuff to do in windows </a>
+
 
 </body>
 </html>  
