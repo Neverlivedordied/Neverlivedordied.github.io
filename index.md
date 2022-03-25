@@ -66,8 +66,6 @@ discord server is under development <br>
 <br>
 <body>
 
-  document.body.style.backgroundImage = "url('document.body.style.backgroundImage')";
-
 <br>
    
    
