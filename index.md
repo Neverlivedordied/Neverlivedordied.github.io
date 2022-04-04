@@ -19,15 +19,16 @@ document.body.style.color = "Blue"
 <p>
 <html>
 <body>
-
-<a href="https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md">If you want to refresh to see if there is a change click this!</a>
-    <a href="https://neverlivedordied.github.io/contact.github.io/index.html">Contact</a>
-    <a href="https://neverlivedordied.github.io/resume/index.html">Resume</a>
-    <a href="https://neverlivedordied.github.io/About-Me/index.html">About me</a>
-             <a href="https://neverlivedordied.github.io/chatroom/index.html"> chatroom in development</a>
-    <a href="https://neverlivedordied.github.io/HELPFULL-STUFF">Helpfull stuff to do in windows </a>
-  <a href="https://countdown-never.w3spaces.com/">something</a>
-
+<button onclick="location.href ='https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md';" id="myButton" class="float-left submit-button" >MAiN MENU</button>
+<button onclick="location.href = 'https://neverlivedordied.github.io/resume/index.html';" id="myButton" class="float-left submit-button" >Resume</button>
+  <button onclick="location.href = 'https://neverlivedordied.github.io/About-Me/index.html';" id="myButton" class="float-left submit-button" >About-me</button>
+  <button onclick="location.href = 'https://neverlivedordied.github.io/chatroom/index.html';" id="myButton" class="float-left submit-button" >chatroom?</button>
+  <button onclick="location.href = 'https://neverlivedordied.github.io/HELPFULL-STUFF';" id="myButton" class="float-left submit-button" >stuff-to-do</button>
+  <button onclick="location.href = 'https://countdown-never.w3spaces.com/';" id="myButton" class="float-left submit-button" >countdown</button>
+ <br>
+   <br>
+   <br>
+ <br>
 </body>
 </html>  
 <br>
