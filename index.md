@@ -19,7 +19,7 @@ document.body.style.color = "Blue"
 <p>
 <html>
 <body>
-<button onclick="location.href ='https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md';" id="myButton" class="float-left submit-button" >MAiN MENU</button>
+<button onclick="location.href ='https://github.com/Neverlivedordied/Neverlivedordied.github.io/edit/gh-pages/index.md';" id="myButton" class="float-left submit-button" >MAIN MENU</button>
 <button onclick="location.href = 'https://neverlivedordied.github.io/resume/index.html';" id="myButton" class="float-left submit-button" >Resume</button>
   <button onclick="location.href = 'https://neverlivedordied.github.io/About-Me/index.html';" id="myButton" class="float-left submit-button" >About-me</button>
   <button onclick="location.href = 'https://neverlivedordied.github.io/chatroom/index.html';" id="myButton" class="float-left submit-button" >chatroom?</button>
