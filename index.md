@@ -56,7 +56,7 @@ document.body.style.color = "Blue"
     <br>
 <br>
 Working on it
-might not be possible with github as github pages are like static<br>
+<br>
 <br>
    <br>
 <br>
