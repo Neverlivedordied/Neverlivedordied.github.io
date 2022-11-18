@@ -5,7 +5,7 @@
  <script src="youmax.js" type="text/javascript"></script>
 <body>
 <button type="button" onclick="myFunction()">Night mode</button>
-
+uptaded test #3
 <script>
 function myFunction() {
   document.body.style.backgroundColor = "black";
