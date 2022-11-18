@@ -1,11 +1,11 @@
-
+<font size="+6">last updated 11/18/22</font>
 <html>
   <link href="youmax.css" rel="stylesheet" type="text/css">\
  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
  <script src="youmax.js" type="text/javascript"></script>
 <body>
 <button type="button" onclick="myFunction()">Night mode</button>
-uptaded test #3
+
 <script>
 function myFunction() {
   document.body.style.backgroundColor = "black";
