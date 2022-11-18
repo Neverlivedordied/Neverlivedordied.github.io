@@ -69,11 +69,11 @@ document.body.style.color = "Blue"
     <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
 <br>
     <br>
-    <font size="+3">TWITTER FEED</font><br>
+    
     <br>
     <br>
 <br>
-Working on it
+
 <br>
 <br>
    <br>
