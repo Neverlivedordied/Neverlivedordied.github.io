@@ -1,4 +1,4 @@
-<font size="+6">last updated 11/18/22</font>
+<font size="+6">last updated 11/18/22 1:09pm</font>
 <html>
   <link href="youmax.css" rel="stylesheet" type="text/css">\
  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
