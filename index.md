@@ -1,5 +1,8 @@
 
 <html>
+  <link href="youmax.css" rel="stylesheet" type="text/css">\
+ <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+ <script src="youmax.js" type="text/javascript"></script>
 <body>
 <button type="button" onclick="myFunction()">Night mode</button>
 
@@ -29,6 +32,21 @@ document.body.style.color = "Blue"
   
   
   
+<!---- HTML ----->
+<div id="youmax"></div>
+
+<!-----Script------>
+<script>
+	$('#youmax').youmax({
+	apiKey:'AIzaSyAlhAqP5RS7Gxwg_0r_rh9jOv_5WfaJgXw',
+	youTubeChannelURL:"[https://www.youtube.com/channel/UCGEoRAK92fUk2kY3kSJMR_Q](https://www.youtube.com/channel/UCJ6eg0CjOAtyeoOM8am6ktA)",
+	youTubePlaylistURL:"",
+	youmaxDefaultTab:"UPLOADS",
+	youmaxColumns:4,
+	showVideoInLightbox:true,
+	maxResults:20,
+});
+</script>
  
   
   
