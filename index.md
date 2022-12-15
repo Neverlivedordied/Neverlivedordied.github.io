@@ -3,6 +3,17 @@
 <body>
 <button type="button" onclick="myFunction()">Night mode</button>
 
+  
+  var password = prompt("Enter your password:");
+var username = prompt("Enter your username:");
+
+if (password == "your password here" && username == "your username here") {
+  alert("Welcome, " + username + "!");
+} else {
+  alert("Incorrect password or username. Please try again.");
+}
+  
+  
 <script>
 function myFunction() {
   document.body.style.backgroundColor = "black";
