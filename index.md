@@ -1,4 +1,4 @@
-<font size="+6">last updated 11/18/22 1:09pm</font>
+<font size="+6">last updated 6/26/2023 1:53am</font>
 <html>
 <body>
 <button type="button" onclick="myFunction()">Night mode</button>
@@ -49,7 +49,7 @@ document.body.style.color = "Blue"
 <body>
 <a href="https://twitter.com/theminebrother3">My Twitter</a>
     <a href="https://www.twitch.tv/theminebrothers3">My Twitch</a>
-    
+      <a href="https://www.tiktok.com/@theminebrothers3">My Tiktok</a>
 <br>
     <br>
     
