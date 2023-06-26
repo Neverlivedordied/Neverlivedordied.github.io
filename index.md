@@ -47,9 +47,9 @@ document.body.style.color = "Blue"
 <br>
 <html>
 <body>
-<a href="https//twitter.com/neverlivedied">My Twitter</a>
+<a href="https://twitter.com/theminebrother3">My Twitter</a>
     <a href="https://www.twitch.tv/theminebrothers3">My Twitch</a>
-    <a href="https://www.eurofan740.wixsite.com/website">orginal website</a>
+    
 <br>
     <br>
     
