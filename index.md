@@ -62,7 +62,7 @@ document.body.style.color = "Blue"
    <br>
 <br>
 <br>
- <font size="+3">LATEST LIVESTREAM ON YOUTUBE Oct 27, 2022</font
+ <font size="+3">LATEST LIVESTREAM ON YOUTUBE Oct 27, 2022 </font>
  <font size="+1">manually putting in video so if not correct you know why</font><br>
 <br>
 <br>
