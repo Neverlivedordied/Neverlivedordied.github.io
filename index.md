@@ -62,12 +62,12 @@ document.body.style.color = "Blue"
    <br>
 <br>
 <br>
- <font size="+3">LATEST LIVESTREAM ON YOUTUBE Oct 27, 2022 </font>
+ <font size="+3">LATEST LIVESTREAM ON YOUTUBE Aug 28th, 2024 </font>
  <font size="+1">manually putting in video so if not correct you know why</font><br>
 <br>
 <br>
 <p align="(center)">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lpqiqoxyRlE?si=gATGBM4cApMJzf6e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t4p5J0XR-fQ?si=6eipnC8oIjsfxH9h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <br>
 <br>
