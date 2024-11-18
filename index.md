@@ -25,7 +25,7 @@ document.body.style.color = "Blue"
   <button onclick="location.href = 'https://neverlivedordied.github.io/About-Me/index.html';" id="myButton" class="float-left submit-button" >About-me</button>
   
   <button onclick="location.href = 'https://neverlivedordied.github.io/HELPFULL-STUFF';" id="myButton" class="float-left submit-button" >stuff-to-do</button>
-  <button onclick="location.href = 'https://countdown-never.w3spaces.com/';" id="myButton" class="float-left submit-button" >countdown</button>
+  
  <br>
   
   
