@@ -62,12 +62,12 @@ document.body.style.color = "Blue"
    <br>
 <br>
 <br>
- <font size="+3">LATEST LIVESTREAM ON YOUTUBE Aug 28th, 2024 </font>
+ <font size="+3">LATEST LIVESTREAM ON TWITCH Nov 1st, 2024 </font>
  <font size="+1">manually putting in video so if not correct you know why</font><br>
 <br>
 <br>
 <p align="(center)">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t4p5J0XR-fQ?si=6eipnC8oIjsfxH9h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.twitch.tv/?channel=theminebrothers3&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 </p>
 <br>
 <br>
